@@ -1,2 +1,3 @@
 # casset
-Crypto asset (1CA)
+Casset.org (CA)
+Crossassets
